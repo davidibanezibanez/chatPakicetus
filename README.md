@@ -5,4 +5,4 @@ Para probar el programa se necesita en primer lugar ejecutar la clase ChatServid
 
 Para utilizar esta aplicación, el equipo requiere tener instalado JRE 17 o superior y JDK 17 o superior.
 
-Demostración de la aplicación en YouTube: https://youtu.be/HNfix7R-VY8
+Demostración de la aplicación, explicación de proceso de configuración y muestra de código en YouTube: https://youtu.be/HNfix7R-VY8
